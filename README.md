@@ -1,0 +1,1 @@
+This project is intended as an exercise in building a basic website by using DevTools to inspect the Google homepage and make a visually similar clone of it.
